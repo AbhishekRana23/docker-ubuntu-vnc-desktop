@@ -3,7 +3,7 @@
 // see http://vuejs-templates.github.io/webpack for documentation.
 
 const path = require('path')
-const BACKEND = process.env.BACKEND || 'http://127.0.0.1:6080'
+const BACKEND = process.env.BACKEND || 'http://127.0.0.1:8080'
 
 module.exports = {
   dev: {
